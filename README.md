@@ -1,5 +1,5 @@
 # Submission for ProcessVenue (Track B : AI Engineer assessment) - by Yash Kahalkar
-[Live URL](https://mini-rag-0sm6.onrender.com/)
+# 🌟[Live URL](https://mini-rag-0sm6.onrender.com/)
 # Mini RAG App 🔍
 
 [![Made with Streamlit](https://img.shields.io/badge/Made_with-Streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit)](https://streamlit.io)
