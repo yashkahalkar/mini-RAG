@@ -1,4 +1,5 @@
 # Submission for ProcessVenue (Track B : AI Engineer assessment) - by Yash Kahalkar
+[Live URL](https://mini-rag-0sm6.onrender.com/)
 # Mini RAG App 🔍
 
 [![Made with Streamlit](https://img.shields.io/badge/Made_with-Streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit)](https://streamlit.io)
@@ -11,11 +12,12 @@ A sophisticated, yet easy-to-use, Retrieval-Augmented Generation (RAG) applicati
 
 ### Demo 🎬
 
-*(It's highly recommended to replace this text with a screenshot or, even better, an animated GIF of your application in action. This is the best way to showcase your project!)*
+**Here are some Screenshots**
+![Screenshot](assets/1.png)
 
-![Mini RAG App Screenshot](path/to/your/screenshot.gif)
+![Screenshot](assets/2.png)
 
-
+![Screenshot](assets/3.png)
 ***
 
 ## ✨ Features
