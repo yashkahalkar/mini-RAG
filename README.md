@@ -1,4 +1,4 @@
-# Submission for ProcessVenue - by Yash Kahalkar
+# Submission for ProcessVenue (Track B : AI Engineer assessment) - by Yash Kahalkar
 # Mini RAG App 🔍
 
 [![Made with Streamlit](https://img.shields.io/badge/Made_with-Streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit)](https://streamlit.io)
@@ -57,7 +57,7 @@ graph TD
         G -- Return Top 5 Chunks --> H[Format Prompt];
         I[Conversation History] --> H;
         C --> H;
-        H --> J[Gemini 1.5 Pro LLM];
+        H --> J[Gemini 2.5 flash LLM];
         J -- Generate Answer --> L;
     end
 
